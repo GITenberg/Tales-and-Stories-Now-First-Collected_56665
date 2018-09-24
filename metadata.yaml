@@ -1,0 +1,37 @@
+_repo: Tales-and-Stories-Now-First-Collected_56665
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Garnett, Richard
+    alias: Trent, A. G.
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '3305'
+    url: http://www.gutenberg.org/2009/agents/3305
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Garnett_%28writer%29
+creator:
+  author:
+    agent_name: Shelley, Mary Wollstonecraft
+    aliases:
+    - Shelley, Mary Wollstonecraft Godwin
+    - Shelley, Mary W.
+    birthdate: 1797
+    deathdate: 1851
+    gutenberg_agent_id: '61'
+    url: http://www.gutenberg.org/2009/agents/61
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
+description: ''
+gutenberg_issued: '2018-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tales and Stories
+
+  Now First Collected'
+url: http://www.gutenberg.org/ebooks/56665
