@@ -1,5 +1,5 @@
 _repo: Tales-and-Stories-Now-First-Collected_56665
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Garnett, Richard
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '3305'
     url: http://www.gutenberg.org/2009/agents/3305
     wikipedia: http://en.wikipedia.org/wiki/Richard_Garnett_%28writer%29
+covers:
+- cover_type: archival
+  image_path: 56665-h/images/cover.jpg
 creator:
   author:
     agent_name: Shelley, Mary Wollstonecraft
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/61
     wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56665#Tales-and-Stories-Now-First-Collected
 gutenberg_issued: '2018-03-01'
 gutenberg_type: Text
 identifiers:
